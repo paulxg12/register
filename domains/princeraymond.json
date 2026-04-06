@@ -1,0 +1,21 @@
+{
+    "description": "Portfolio website for Prince Raymond Paul",
+    "repo": "https://github.com/paulxg12/portfolio",
+    "domain": "princeraymond.is-a.dev",
+    "subdomain": "princeraymond",
+    "owner": {
+        "username": "paulxg12",
+        "email": "princeraymondpaul911@gmail.com"
+    },
+    "record": {
+        "CNAME": "paulxg12.github.io"
+    },
+    "nested": [
+        {
+            " subdomain": "www",
+            "record": {
+                "CNAME": "paulxg12.github.io"
+            }
+        }
+    ]
+}
